@@ -1,6 +1,6 @@
 # AI Channel Blocklist for FreeTube
 
-Import a blocklist of 21,000+ AI-generated YouTube channels into [FreeTube](https://freetubeapp.io/).
+Import a blocklist of 50,000+ AI-generated YouTube channels into [FreeTube](https://freetubeapp.io/).
 
 The list comes from [AiSList by Override92](https://github.com/Override92/AiSList/blob/main/AiSList/aislist_blocklist.txt). That list only contains channel handles (e.g. `@youtube`), but FreeTube needs more (channel ID, name, icon). The scripts here fetch that data and write it into your FreeTube `settings.db`.
 
